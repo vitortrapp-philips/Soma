@@ -9,6 +9,3 @@ soma = numero1 + numero2
 
 # Saída
 print("A soma é essa:", soma)
-
-#vhpt
-#philips
